@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Marco%20Padilla%20G%C3%B3mez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Machine%20Learning%20%26%20Backend&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Marco%20Padilla%20G%C3%B3mez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Machine%20Learning%20and%20Backend&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -86,16 +86,11 @@ ahora_mismo: Buscando mi primera oportunidad como Software Engineer (Sevilla / r
 ## Estadísticas en GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maarcoopg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarcoopg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=maarcoopg&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maarcoopg&bg_color=0d1117&color=38bdf8&line=2c5364&point=ffffff&area=true&hide_border=true" />
+  <img width="100%" src="https://ghchart.rshah.org/38bdf8/maarcoopg" alt="Contribuciones de maarcoopg" />
 </p>
 
 <!-- Footer -->
